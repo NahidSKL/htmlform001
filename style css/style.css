@@ -1,0 +1,44 @@
+.menu{
+    margin-top: 50px;
+background-color: red;
+height: 50px;
+
+
+}
+
+ul{ 
+
+margin:0;
+padding:0;
+}
+
+li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 20px;
+    color: black
+
+    .box1{
+        background-color: black; 
+        color: white; 
+        height: 100px; 
+        width: 100px;  
+    }
+    
+    bottom{
+        
+        width: 140px;
+        height: 40px;
+        background-color: red;
+        
+        
+        
+
+    }
+
+    
+    
+
+    
+
